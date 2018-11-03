@@ -3,7 +3,7 @@
 
 ### Official Website for the club
 
-This repository contains the website for the programming club of Guru Nanak Dev University RC GSP. You can visit it at https://csclubgsp.github.io (hosted with :heart: using [Github Pages](https://github.io)).
+This repository contains the website for the programming club of Guru Nanak Dev University RC GSP. You can visit it at http://c3techclb.tk (hosted with :heart: using [Github Pages](https://github.io)).
 
 You can help us improve the website by reviewing the code and contributing to it.
 
