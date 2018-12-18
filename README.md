@@ -1,4 +1,4 @@
-![clublogo](/img/logo.png)
+![clublogo](/old/img/logo.png)
 # Code Compile Coffee Club
 
 ### Official Website for the club
