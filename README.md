@@ -1,4 +1,5 @@
 <img src="/assets/images/logo.jpg" width="48">
+
 # Code Club
 
 ### Official Website for the club
