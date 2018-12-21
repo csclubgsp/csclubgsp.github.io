@@ -1,5 +1,5 @@
-![clublogo](/old/img/logo.png)
-# Code Compile Coffee Club
+![clublogo](/assets/images/logo.jpg)
+# Code Club
 
 ### Official Website for the club
 
